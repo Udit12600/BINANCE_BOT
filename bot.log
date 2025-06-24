@@ -1,0 +1,25 @@
+INFO:root:Client initialized for Binance Futures Testnet
+INFO:root:Client initialized for Binance Futures Testnet
+INFO:root:Client initialized for Binance Futures Testnet
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: Unsupported order type.
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2014): API-key format invalid.
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2014): API-key format invalid.
+INFO:root:Client initialized for Binance Futures Testnet
+INFO:root:Client initialized for Binance Futures Testnet
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+INFO:root:Client initialized for Binance Futures Testnet
+ERROR:root:Order error: APIError(code=-2015): Invalid API-key, IP, or permissions for action
